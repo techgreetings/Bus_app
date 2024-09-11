@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Bus App</string>
+
+        <string name="bus_name1">Bus # 1</string>
+        <string name="bus_name2">Bus # 2</string>
+        <string name="bus_name3">Bus # 3</string>
+        <string name="bus_name4">Bus # 4</string>
+        <string name="bus_name5">Bus # 5</string>
+        <string name="bus_name6">Bus # 6</string>
+        <string name="bus_des1">0000</string>
+        <string name="bus_des2">0001</string>
+        <string name="bus_des3">0010</string>
+        <string name="bus_des4">0011</string>
+        <string name="bus_des5">0100</string>
+        <string name="bus_des6">1000</string>
+        <string name="bus_detail_1">Known for reliability and comfort.</string>
+        <string name="bus_detail_2">Modern features and comfortable seating.</string>
+        <string name="bus_detail_3">Luxury and high-end amenities.</string>
+        <string name="bus_detail_4">Durable and comfortable.</string>
+        <string name="bus_detail_5">Robust build with modern amenities.</string>
+        <string name="bus_detail_6">Affordable and efficient.</string>
+
+    <string name="expand_button_content_description">expand button</string>
+    <string name="about">Busses Application:</string>
+</resources>
